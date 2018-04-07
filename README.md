@@ -3,9 +3,12 @@ Problem: using Bing maps tile system to automatically download aerial imagery (m
 
 Submit both source code and a functioning executable/script (please zip) by email (each group please submit one copy only)
 -Input: lat1, lon1, lat2, lon2
+
 -Output: an aerial imagery within the bounding box defined above
 
+
 ============ Run Instructions ===========
+
 
 Simply open a Terminal at the project directory, run, for example:
 	# Example for IIT Campus
@@ -21,6 +24,7 @@ Note:
 
 
 ============ Required Environment ===========
+
 Python 3.6
 Pillow (PIL Fork) 5.1.x
 
@@ -31,6 +35,7 @@ Note:
 
 
 =========== Project files ===========
+
 main.py
 TileSystem.py
 null.jpeg
@@ -49,6 +54,7 @@ null.jpeg
 
 
 ========= Reference =========
+
 https://msdn.microsoft.com/en-us/library/bb259689.aspx
 
 
