@@ -59,11 +59,11 @@ Note:
 
 3. Query each tile image and paste.
 
-	Convert lat/lon to pixel coordinates.
+      1) Convert lat/lon to pixel coordinates.
 	
-	Convert pixel coordinates to tile coordinates.
+      2) Convert pixel coordinates to tile coordinates.
 	
-	Query tile image from Bing Server.
+      3) Query tile image from Bing Server.
 	
 4. Refine and crop the generated image by pixel granularity.
 
