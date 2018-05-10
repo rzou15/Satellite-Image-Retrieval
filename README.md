@@ -7,7 +7,7 @@ Use Bing maps tile system to automatically download aerial imagery (maximum reso
 -Output: an aerial imagery within the bounding box defined above
 
 
-============ Run Instructions ===========
+## Run Instructions
 
 
 Simply open a Terminal at the project directory, run, for example:
@@ -26,7 +26,7 @@ Note:
     The four parameters represents lat1, lon1, lat2, lon2, respectively.
 
 
-============ Required Environment ===========
+## Required Environment
 
 Python 3.6
 
@@ -42,8 +42,7 @@ Note:
 
 
 
-=========== Project files ===========
-
+## Project files
 	main.py
 
 	TileSystem.py
@@ -51,7 +50,7 @@ Note:
 	null.jpeg
 
 
-=========== Algorithm Introduction ==========
+## Algorithm Introduction
 
 1. Determine the lowest acceptable level by all bounding box area within one tile.
 
@@ -69,7 +68,7 @@ Note:
 
 
 
-========= Reference =========
+## Reference
 
 https://msdn.microsoft.com/en-us/library/bb259689.aspx
 
