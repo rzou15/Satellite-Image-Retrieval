@@ -2,9 +2,9 @@
 ## Problem: 
 Use Bing maps tile system to automatically download aerial imagery (maximum resolution available) given a lat/lon bounding box. Reference the link at the bottom for quad key calculation and code. An example tile: http://h0.ortho.tiles.virtualearth.net/tiles/h023131022213211200.jpeg?g=131
 
--Input: lat1, lon1, lat2, lon2
+-**Input:** lat1, lon1, lat2, lon2
 
--Output: an aerial imagery within the bounding box defined above
+-**Output:** an aerial imagery within the bounding box defined above
 
 
 ## Run Instructions
